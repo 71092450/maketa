@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://pelota/images__1_-removebg-preview.png" type="Texture" id=1]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 20.0
+
+[node name="pelota" type="RigidBody2D"]
+position = Vector2( 228, 538 )
+
+[node name="Sprite" type="Sprite" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( -5, -13 )
+shape = SubResource( 1 )
+
+[node name="Images1-removebg-preview2" type="Sprite" parent="."]
+position = Vector2( -4.07813, -13.5156 )
+scale = Vector2( 0.187361, 0.182361 )
+texture = ExtResource( 1 )

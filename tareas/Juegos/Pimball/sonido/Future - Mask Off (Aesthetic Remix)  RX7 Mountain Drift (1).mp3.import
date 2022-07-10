@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Future - Mask Off (Aesthetic Remix)  RX7 Mountain Drift (1).mp3-f0b6724f1d3e55b45d707b64fc5999ea.mp3str"
+
+[deps]
+
+source_file="res://sonido/Future - Mask Off (Aesthetic Remix)  RX7 Mountain Drift (1).mp3"
+dest_files=[ "res://.import/Future - Mask Off (Aesthetic Remix)  RX7 Mountain Drift (1).mp3-f0b6724f1d3e55b45d707b64fc5999ea.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

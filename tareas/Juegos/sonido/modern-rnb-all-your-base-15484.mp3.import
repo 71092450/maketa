@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/modern-rnb-all-your-base-15484.mp3-0f7ff70a9a62367c98c65e949c089113.mp3str"
+
+[deps]
+
+source_file="res://sonido/modern-rnb-all-your-base-15484.mp3"
+dest_files=[ "res://.import/modern-rnb-all-your-base-15484.mp3-0f7ff70a9a62367c98c65e949c089113.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
